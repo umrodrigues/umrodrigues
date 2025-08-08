@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luã Rodrigues</h1>
 <h3 align="center">A passionate and curious fullstack developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Renner S.A.](https://www.lojasrenner.com.br/)
+- 🔭 I’m currently working on [Lydia](https://www.lydia.com.br)
 
 - 👨‍💻 All of my projects are available at [www.umrodrigues.com.br](www.umrodrigues.com.br)
 
